@@ -1,0 +1,3 @@
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/RandomColor/obj/Debug/netcoreapp3.1/RandomColor.csprojAssemblyReference.cache
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/RandomColor/obj/Debug/netcoreapp3.1/RandomColor.AssemblyInfoInputs.cache
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/RandomColor/obj/Debug/netcoreapp3.1/RandomColor.AssemblyInfo.cs

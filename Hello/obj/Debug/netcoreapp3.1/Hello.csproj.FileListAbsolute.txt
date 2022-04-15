@@ -1,0 +1,11 @@
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/bin/Debug/netcoreapp3.1/Hello
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/bin/Debug/netcoreapp3.1/Hello.deps.json
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/bin/Debug/netcoreapp3.1/Hello.runtimeconfig.json
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/bin/Debug/netcoreapp3.1/Hello.runtimeconfig.dev.json
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/bin/Debug/netcoreapp3.1/Hello.dll
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/bin/Debug/netcoreapp3.1/Hello.pdb
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/obj/Debug/netcoreapp3.1/Hello.csprojAssemblyReference.cache
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/obj/Debug/netcoreapp3.1/Hello.AssemblyInfoInputs.cache
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/obj/Debug/netcoreapp3.1/Hello.AssemblyInfo.cs
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/obj/Debug/netcoreapp3.1/Hello.dll
+/home/michael/Documents/Codecool/Weekendowy/1st Sprint/Pre-Work/C#/Hello/obj/Debug/netcoreapp3.1/Hello.pdb
